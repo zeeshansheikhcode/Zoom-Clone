@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76964911771",
+    "project_id": "zoomy-3d0aa",
+    "storage_bucket": "zoomy-3d0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76964911771:android:0fea58a305abe98b09043e",
+        "android_client_info": {
+          "package_name": "com.example.zoom_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76964911771-g9e3h6rg9dl5r4ne3o3vmn20ufev1ler.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsrcu5AmkICV2cDCpjvViGoLBc_NtKwtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76964911771-g9e3h6rg9dl5r4ne3o3vmn20ufev1ler.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
